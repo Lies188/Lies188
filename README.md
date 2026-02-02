@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=180&section=header&text=Lies188&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+## Lies188
 
-### 🔐 Security Researcher | Reverse Engineer
+🔐 Security Researcher | Reverse Engineer
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
