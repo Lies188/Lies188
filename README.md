@@ -28,17 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lies188&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lies188&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Connect with me
